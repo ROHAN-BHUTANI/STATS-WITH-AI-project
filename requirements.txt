@@ -1,0 +1,8 @@
+pandas
+numpy
+networkx
+matplotlib
+folium
+python-pptx
+streamlit
+requests
